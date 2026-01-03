@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uc8K9UA114o=",
+  "dgSpecHash": "x5rYVqZjuig=",
   "success": true,
-  "projectFilePath": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\almaarmudgoz.csproj",
+  "projectFilePath": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\METIN\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\METIN\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

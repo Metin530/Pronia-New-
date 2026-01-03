@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\almaarmudgoz.csproj": {}
+    "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\almaarmudgoz.csproj": {
+    "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\almaarmudgoz.csproj",
+        "projectUniqueName": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj",
         "projectName": "almaarmudgoz",
-        "projectPath": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\almaarmudgoz.csproj",
+        "projectPath": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj",
         "packagesPath": "C:\\Users\\METIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\obj\\",
+        "outputPath": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
