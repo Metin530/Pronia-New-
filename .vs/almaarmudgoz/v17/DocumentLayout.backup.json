@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\shop\\wishlsit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\shop\\wishlsit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\home\\singlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\home\\singlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\source\\repos\\almaarmudgoz\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\_ViewStart.cshtml*",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:47:15.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAOUEAAAAAAAAAAAmwAMFAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:45:48.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wishlsit.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Shop\\Wishlsit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Wishlsit.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Shop\\Wishlsit.cshtml*",
+              "RelativeToolTip": "Views\\Shop\\Wishlsit.cshtml*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAmwIsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:44:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Shop\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Shop\\Index.cshtml*",
+              "ViewState": "AgIAALEHAAAAAAAAAAAmwM8HAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:43:34.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:43:10.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinglePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Home\\SinglePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SinglePage.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Home\\SinglePage.cshtml*",
+              "RelativeToolTip": "Views\\Home\\SinglePage.cshtml*",
+              "ViewState": "AgIAAOcCAAAAAAAAAAAmwAUDAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:37:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Home\\Error.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Error.cshtml*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:36:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAHAJAAAAAAAAAAAmwI4JAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:36:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Controllers\\ShopController.cs*",
+              "RelativeToolTip": "Controllers\\ShopController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:29:34.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:28:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:26:45.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\METIN\\source\\repos\\almaarmudgoz\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:20:06.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
