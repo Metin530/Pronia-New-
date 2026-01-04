@@ -1,6 +1,7 @@
-﻿namespace almaarmudgoz.Models
+﻿using almaarmudgoz.Models.Base;
+namespace almaarmudgoz.Models
 {
-    public class Slide
+    public class Slide : BaseEntity    
     {
         public string Title { get; set; }
         public int Discount { get; set; }
