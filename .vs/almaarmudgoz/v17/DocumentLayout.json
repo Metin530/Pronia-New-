@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\almaarmudgoz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:almaarmudgoz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:migrations\\20260104212833_updateskuerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,10 +134,6 @@
       "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\almaarmudgoz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:almaarmudgoz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|c:\\users\\metin\\onedrive\\desktop\\almaarmudgoz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87D01AC3-4950-41A9-9F39-F617F4718CDE}|almaarmudgoz.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -149,61 +181,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Shop\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Shop\\Detail.cshtml",
-              "RelativeToolTip": "Views\\Shop\\Detail.cshtml",
-              "ViewState": "AgIAANoBAAAAAAAAAAAwwDACAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-04T21:57:31.577Z",
+              "WhenOpened": "2026-01-05T01:42:34.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20260104200806_nese3.cs",
-              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104200806_nese3.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260104200806_nese3.cs",
-              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104200806_nese3.cs",
-              "RelativeToolTip": "Migrations\\20260104200806_nese3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T20:08:07.013Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T01:26:59.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T01:23:42.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T00:58:09.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T00:57:04.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-05T00:49:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T16:26:45.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T18:44:45.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -211,11 +284,51 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T13:11:07.981Z"
+              "WhenOpened": "2026-01-04T13:11:07.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABABAAAAAAAAAAAgwCoBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T01:03:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T01:02:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T18:44:45.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "DetailVM.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\ViewModels\\DetailVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\DetailVM.cs",
@@ -228,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
@@ -241,20 +354,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T16:20:06.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "almaarmudgoz.csproj",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj",
+              "RelativeDocumentMoniker": "almaarmudgoz.csproj",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj",
+              "RelativeToolTip": "almaarmudgoz.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T12:49:12.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260104200806_nese3.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104200806_nese3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260104200806_nese3.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104200806_nese3.cs",
+              "RelativeToolTip": "Migrations\\20260104200806_nese3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T20:08:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:36:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAANoBAAAAAAAAAAAwwDACAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T21:57:31.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20260104212833_updateSKUerror.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104212833_updateSKUerror.cs",
               "RelativeDocumentMoniker": "Migrations\\20260104212833_updateSKUerror.cs",
@@ -262,11 +427,12 @@
               "RelativeToolTip": "Migrations\\20260104212833_updateSKUerror.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T21:28:33.338Z"
+              "WhenOpened": "2026-01-04T21:28:33.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -274,11 +440,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-04T21:38:03.517Z"
+              "WhenOpened": "2026-01-04T21:38:03.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "Models\\ProductImage.cs",
@@ -286,23 +453,12 @@
               "RelativeToolTip": "Models\\ProductImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T13:15:51.087Z"
+              "WhenOpened": "2026-01-04T13:15:51.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwBAAAAAAAAAIAwwLUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:36:10.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "20260104200000_nese2.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104200000_nese2.cs",
               "RelativeDocumentMoniker": "Migrations\\20260104200000_nese2.cs",
@@ -310,11 +466,12 @@
               "RelativeToolTip": "Migrations\\20260104200000_nese2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T20:00:00.506Z"
+              "WhenOpened": "2026-01-04T20:00:00.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
@@ -322,11 +479,12 @@
               "RelativeToolTip": "ViewModels\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T18:45:46.95Z"
+              "WhenOpened": "2026-01-03T18:45:46.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
@@ -334,11 +492,12 @@
               "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T13:09:55.233Z"
+              "WhenOpened": "2026-01-04T13:09:55.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "20260104194640_nese1.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104194640_nese1.cs",
               "RelativeDocumentMoniker": "Migrations\\20260104194640_nese1.cs",
@@ -346,11 +505,12 @@
               "RelativeToolTip": "Migrations\\20260104194640_nese1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T19:46:41.041Z"
+              "WhenOpened": "2026-01-04T19:46:41.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
@@ -358,11 +518,12 @@
               "RelativeToolTip": "DAL\\AppDbContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:50:59.948Z"
+              "WhenOpened": "2026-01-04T12:50:59.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "20260104193954_hecne2.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104193954_hecne2.cs",
               "RelativeDocumentMoniker": "Migrations\\20260104193954_hecne2.cs",
@@ -370,11 +531,12 @@
               "RelativeToolTip": "Migrations\\20260104193954_hecne2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T19:39:55.117Z"
+              "WhenOpened": "2026-01-04T19:39:55.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -382,11 +544,12 @@
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T19:38:48.932Z"
+              "WhenOpened": "2026-01-04T19:38:48.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
@@ -394,11 +557,12 @@
               "RelativeToolTip": "Controllers\\BlogController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T16:28:27.641Z"
+              "WhenOpened": "2026-01-03T16:28:27.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "20260104162923_saveinfo.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104162923_saveinfo.cs",
               "RelativeDocumentMoniker": "Migrations\\20260104162923_saveinfo.cs",
@@ -406,11 +570,12 @@
               "RelativeToolTip": "Migrations\\20260104162923_saveinfo.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:29:23.609Z"
+              "WhenOpened": "2026-01-04T16:29:23.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "20260104130158_CreateDb.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104130158_CreateDb.cs",
               "RelativeDocumentMoniker": "Migrations\\20260104130158_CreateDb.cs",
@@ -418,11 +583,12 @@
               "RelativeToolTip": "Migrations\\20260104130158_CreateDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T13:01:58.529Z"
+              "WhenOpened": "2026-01-04T13:01:58.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "Models\\Blog.cs",
@@ -430,11 +596,12 @@
               "RelativeToolTip": "Models\\Blog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T18:43:41.017Z"
+              "WhenOpened": "2026-01-03T18:43:41.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "20260104164638_hecne.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Migrations\\20260104164638_hecne.cs",
               "RelativeDocumentMoniker": "Migrations\\20260104164638_hecne.cs",
@@ -442,11 +609,12 @@
               "RelativeToolTip": "Migrations\\20260104164638_hecne.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:46:38.277Z"
+              "WhenOpened": "2026-01-04T16:46:38.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "Slide.cs",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Models\\Slide.cs",
               "RelativeDocumentMoniker": "Models\\Slide.cs",
@@ -454,11 +622,12 @@
               "RelativeToolTip": "Models\\Slide.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T18:43:57.915Z"
+              "WhenOpened": "2026-01-03T18:43:57.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "balonca---091.lst",
               "DocumentMoniker": "D:\\lecallar\\balonca---091.lst",
               "ToolTip": "D:\\lecallar\\balonca---091.lst",
@@ -467,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "SinglePage.cshtml",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Home\\SinglePage.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\SinglePage.cshtml",
@@ -475,11 +644,12 @@
               "RelativeToolTip": "Views\\Home\\SinglePage.cshtml",
               "ViewState": "AgIAAOcCAAAAAAAAAAAmwAUDAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:37:06.758Z"
+              "WhenOpened": "2026-01-03T16:37:06.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\libman.json",
               "RelativeDocumentMoniker": "libman.json",
@@ -487,11 +657,12 @@
               "RelativeToolTip": "libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-04T12:46:06.765Z"
+              "WhenOpened": "2026-01-04T12:46:06.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
@@ -499,23 +670,12 @@
               "RelativeToolTip": "Views\\Blog\\Index.cshtml",
               "ViewState": "AgIAANwBAAAAAAAAAAAwwPgBAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:43:10.267Z"
+              "WhenOpened": "2026-01-03T16:43:10.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "almaarmudgoz.csproj",
-              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj",
-              "RelativeDocumentMoniker": "almaarmudgoz.csproj",
-              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\almaarmudgoz.csproj",
-              "RelativeToolTip": "almaarmudgoz.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-04T12:49:12.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -523,11 +683,12 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:47:15.323Z"
+              "WhenOpened": "2026-01-03T16:47:15.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Home\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
@@ -535,11 +696,12 @@
               "RelativeToolTip": "Views\\Home\\Error.cshtml",
               "ViewState": "AgIAADUAAAAAAAAAAAAmwFMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:36:34.403Z"
+              "WhenOpened": "2026-01-03T16:36:34.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
@@ -547,11 +709,12 @@
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAALEHAAAAAAAAAAAmwM8HAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:43:34.204Z"
+              "WhenOpened": "2026-01-03T16:43:34.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Wishlsit.cshtml",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Shop\\Wishlsit.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Wishlsit.cshtml",
@@ -559,11 +722,12 @@
               "RelativeToolTip": "Views\\Shop\\Wishlsit.cshtml",
               "ViewState": "AgIAAG0AAAAAAAAAAAAmwIsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:44:27.097Z"
+              "WhenOpened": "2026-01-03T16:44:27.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\almaarmudgoz\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -571,7 +735,8 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAOUEAAAAAAAAAAAmwAMFAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:45:48.176Z"
+              "WhenOpened": "2026-01-03T16:45:48.176Z",
+              "EditorCaption": ""
             }
           ]
         }

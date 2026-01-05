@@ -18,7 +18,7 @@ namespace almaarmudgoz.Controllers
         }
         
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
 
             //            List<Slide> slides = new List<Slide>
@@ -107,9 +107,9 @@ namespace almaarmudgoz.Controllers
 
             HomeVM homeVM = new HomeVM
             {
-                Slides = _context.Sliders.ToList(),
-                Products = _context.Products.Include(p=>p.ProductImages).ToList(),
-                Blogs = _context.Blogs.ToList() 
+                Slides = await _context.Sliders.ToListAsync(),
+                Products = await _context.Products.Include(p => p.ProductImages).ToListAsync(),
+                Blogs = await _context.Blogs.ToListAsync()
 
             };
             return View(homeVM);
